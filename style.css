@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;  
+}
+
+table {
+    margin: 200px auto;
+    width: 900px;
+    height: 500px;
+    border-collapse: collapse;
+}
+
+.price-container {
+    height: 150px;
+    color: white;
+    cursor: default;
+}
+
+.text {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.price {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.choose {
+    border-top-left-radius: 10px;
+    background-color: #7987ac;
+}
+
+.starter {
+    background-color: #4f628d;
+}
+
+.econom {
+    background-color: #2f4173;
+}
+
+.standart {
+    background-color: #162954;
+}
+
+.professional {
+    border-top-right-radius: 10px;
+    background-color: #07153a;
+}
+
+.element {
+    text-align: center;
+    cursor: default;
+}
+
+.color1 {
+    background-color: #dbdbdb;
+}
+
+.color2 {
+    background-color: #e7e7e7;
+}
+.color3 {
+    background-color: #f3f3f3;
+}
+
+.first-column {
+    width: 270px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.last-row {
+    height: 70px;
+}
+
+.btn-start {
+    border-bottom-left-radius: 10px;
+}
+
+.btn-start4 {
+    border-bottom-right-radius: 10px;
+}
+
+.button {
+    margin: 15px 20px;
+    padding: 10px;
+    border: 2px solid #b1b1b1;
+    color: #71736e;
+    background-color: #d3d3d3;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
